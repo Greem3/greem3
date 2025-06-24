@@ -1,9 +1,9 @@
 # 💫 About Me:
-Me presento, soy Ian.
+Let me introduce myself, I'm Ian.
 <br/>
-Soy un Desarrollador Backend Junior apasionado por la programación y las matemáticas, me encantan los sistemas complejos y si hay un desafío ahi estare! Tengo muchas ideas y proyectos a futuro en mente, algunos ya en desarrollo que pienso que le podrían servir al mundo.
+I'm a Junior Backend Developer passionate about programming and math. I love complex systems, and if there's a challenge, I'm here! I have many ideas and future projects in mind, some already in development, that I think could be of use to the world.
 
-Me encanta estudiar y aprender cosas nuevas y a mejorar cada día!
+I love studying and learning new things and improving every day!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ian_pimat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ian.pichardo@hotmail.com) 
