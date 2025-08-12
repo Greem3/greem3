@@ -1,19 +1,94 @@
-# 💫 About Me:
-Let me introduce myself, I'm Ian.
-<br/>
-I'm a Junior Backend Developer passionate about programming and math. I love complex systems, and if there's a challenge, I'm here! I have many ideas and future projects in mind, some already in development, that I think could be of use to the world.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:064E3B,100:10B981&height=220&section=header&text=DevGreem&fontColor=FFFFFF&fontSize=44&animation=fadeIn" alt="header" />
+</p>
 
-I love studying and learning new things and improving every day!
+<p align="center">
+  <b>Desarrollador Backend / Full‑Stack | Clean Code | Open Source | Automatización</b><br/>
+  Apasionado de las matemáticas y la programación.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ian_pimat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ian.pichardo@hotmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevGreem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DevGreem&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGreem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/DevGreem?tab=followers"><img src="https://img.shields.io/github/followers/DevGreem?label=Followers&style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/DevGreem"><img src="https://komarev.com/ghpvc/?username=DevGreem&style=for-the-badge&color=0e75b6" alt="profile views" /></a>
+  <a href="mailto:ian.pichardo@hotmail.com"><img src="https://img.shields.io/badge/Email-Contactar-blue?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DevGreem&icon=6&color=1)](https://visitcount.itsvg.in)
+
+### 🧭 Sobre mí
+- 🔭 Actualmente trabajando en: 
+- 🌱 Aprendiendo: 
+- 💬 Pregunta sobre: 
+- 🎯 Objetivo 2025:   
+- ⚡ Fun fact: 
+
+---
+
+### 📊 Métricas destacadas
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DevGreem&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" alt="stats principal"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=DevGreem&theme=github_dark&hide_border=false" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGreem&layout=compact&langs_count=10&theme=github_dark&hide_border=false&size_weight=0.5&count_weight=0.5" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevGreem&theme=onedark&no-frame=true&no-bg=true&row=1&margin-w=15&margin-h=15" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevGreem&hide_border=true&bg_color=0F1419&color=B3B1AD&line=10B981&point=10B981&area=true&area_color=064E3B&title_color=10B981" alt="activity graph"/>
+</p>
+
+---
+
+### 🛠️ Lenguajes y Tecnologías
+
+#### Lenguajes
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat-square" />
+</p>
+
+#### Backend / Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
+</p>
+
+#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" />
+</p>
+
+#### Bases de Datos / Caching
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square" />
+</p>
+
+#### Observabilidad / Otros
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tech | Enlaces |
+|----------|-------------|------|---------|
+| (Proyecto A) | Nada | C# | [Repo](#) |
+| (Proyecto B) | Nada | C# | [Repo](#) |
+| (Proyecto C) | Nada | C# | [Repo](#) |
